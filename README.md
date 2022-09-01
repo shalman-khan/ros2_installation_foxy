@@ -31,7 +31,7 @@ export LANG=en_US.UTF-8
 locale
 
 ```
-
+![Locale](https://github.com/shalman-khan/ros2_installation_foxy/blob/main/images/Screenshot%20from%202022-09-01%2010-27-50.png)
 ### ROS2 DOWNLOAD
 
 Update Available Package Index again
@@ -70,6 +70,7 @@ Check the distribution opening a Terminal. Ouput: "foxy"
 ```
 echo $ROS_DISTRO
 ```
+![Distro](https://github.com/shalman-khan/ros2_installation_foxy/blob/main/images/Screenshot%20from%202022-09-01%2010-58-25.png)
 
 #### Verify- ROS2 Pub-Sub communication
 
