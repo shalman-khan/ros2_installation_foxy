@@ -83,8 +83,11 @@ ros2 run demo_nodes_cpp talker
 Open Terminal 2 and Run
 
 ```
-ros2 run demo_nodes_cpp talker
+ros2 run demo_nodes_cpp listener
 ```
+![Talker](https://github.com/shalman-khan/ros2_installation_foxy/blob/main/images/Screenshot%20from%202022-09-01%2011-38-22.png)
+![Listener](https://github.com/shalman-khan/ros2_installation_foxy/blob/main/images/Screenshot%20from%202022-09-01%2011-38-25.png)
+
 
 
 
